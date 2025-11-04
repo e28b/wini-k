@@ -1,0 +1,96 @@
+.w1 {
+  background-color: black;
+}
+
+@media (max-width: 999000px) {
+  .w1 {
+    min-width: 688px;
+  }
+}
+
+@media (max-height: 999000px) {
+  .w1 {
+    min-height: 688px;
+  }
+}
+
+.w2 {
+  background-color: purple;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-right: 14px;
+  padding-left: 14px;
+  border: 16px chocolate solid;
+  border-radius: 12px;
+}
+
+.w3 {
+  color: green;
+  background-color: white;
+  font-size: 58px;
+  font-family: "times new roman";
+  font-style: italic;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-right: 14px;
+  padding-left: 14px;
+  border: 16px blue solid;
+  text-align: center;
+}
+
+.w4 {
+  background-color: gold;
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-right: 14px;
+  padding-left: 14px;
+}
+
+.w5 {
+  color: black;
+  font-size: 23px;
+  text-align: center;
+  font-family: "times new roman";
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.w6 {
+  text-align: center;
+}
+
+.w7 {
+  font-size: 68px;
+  font-family: "impact";
+  background-color: green;
+  color: white;
+  padding: 24px;
+  border: none;
+  box-shadow: 4px 4px 4px white;
+  border-radius: 46px;
+}
+
+.w8 {
+  text-align: center;
+}
+
+.w9 {
+  border: 15px white solid;
+  border-radius: 22px;
+  width: 250px;
+  height: 250px;
+}
+
+.w10 {
+  text-align: center;
+}
+
+.w11 {
+  width: 422px;
+  height: 422px;
+  background-color: brown;
+  border: 15px deepskyblue solid;
+  border-radius: 22px;
+}
